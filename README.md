@@ -34,5 +34,5 @@ unit_test/
 ├── pom.xml
 └── README.md
 ```
-### CHƯƠNG 5: Cách chạy kiểm thử đơn vị
+### 5: Cách chạy kiểm thử đơn vị
 Vào đúng thư mục ...\Software-testing-class\unit_test> trong terminal nhập: mvn test
