@@ -2,7 +2,8 @@
 ## CHƯƠNG 1: Bài tập kiểm thử giao diện phần mềm trên trang web Can't Unsee
 
 <img width="1545" height="869" alt="image" src="https://github.com/user-attachments/assets/8f82d873-f176-4df8-8723-08636b95fd43" />
-## CHƯƠNG 2: bài tập thực hành kiểm thử với Junit
+
+## CHƯƠNG 2: bài tập thực hành kiểm thử với Junit 
 ### 1. Mục tiêu
 - Viết kiểm thử đơn vị bằng JUnit 5  
 - Áp dụng Maven trong quản lý project Java  
