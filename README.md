@@ -36,3 +36,7 @@ unit_test/
 ```
 ### 5: Cách chạy kiểm thử đơn vị
 Vào đúng thư mục ...\Software-testing-class\unit_test> trong terminal nhập: mvn test
+## CHƯƠNG 3:kiểm thử tự động End-to-End với Cypress
+### 1.Mục tiêu 
+- Viết kiểm thử tự động với Cypress
+- 
